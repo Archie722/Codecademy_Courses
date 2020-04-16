@@ -2,7 +2,8 @@
 Various exercises while completing Codecademy courses.
 <br/> 
 ## Python 3  
-Link to the Codecademy cheet sheets for the Python 3 Course.
+Link to the Codecademy cheet sheets for the Python 3 Course.<br/>
+[Cheet Sheets](https://github.com/Archie722/Codecademy_Courses/tree/master/Python3_Course/Python%20-%20Cheet%20Sheets)
 <br/>
 <br/>
 ## Command Line  
