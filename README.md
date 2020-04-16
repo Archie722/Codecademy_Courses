@@ -2,7 +2,7 @@
 Various exercises while completing Codecademy courses.
 ## Command Line  
 Link to Codecademy cheet sheets for Terminal commands - Mac  
-[Cheet Sheets](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Cleaning_Data/glob_example/glob_example.ipynb)
+[Cheet Sheets](https://github.com/Archie722/Codecademy_Courses/tree/master/CommandLine/Cheat%20sheets)
 <br/>
 <br/>
 ## Python Pandas
