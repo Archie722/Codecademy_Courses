@@ -1,14 +1,14 @@
 # Codecademy Courses
 Various exercises while completing Codecademy courses.
 <br/> 
-## Python 3  
-Link to the Codecademy cheet sheets for the Python 3 Course.<br/>
-[Cheet Sheets](https://github.com/Archie722/Codecademy_Courses/tree/master/Python3_Course/Python%20-%20Cheet%20Sheets)
-<br/>
-<br/>
 ## Command Line  
 Link to Codecademy cheet sheets for Terminal commands - Mac  
 [Cheet Sheets](https://github.com/Archie722/Codecademy_Courses/tree/master/CommandLine/Cheat%20sheets)
+<br/>
+<br/>
+## Python 3  
+Link to the Codecademy cheet sheets for the Python 3 Course.<br/>
+[Cheet Sheets](https://github.com/Archie722/Codecademy_Courses/tree/master/Python3_Course/Python%20-%20Cheet%20Sheets)
 <br/>
 <br/>
 ## Python Pandas
