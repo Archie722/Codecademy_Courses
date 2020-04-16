@@ -1,4 +1,4 @@
-# Codecademy_Courses
+# Codecademy Courses
 Various exercises while completing Codecademy courses.
 
 ## Python Pandas
