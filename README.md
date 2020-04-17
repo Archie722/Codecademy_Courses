@@ -16,4 +16,6 @@ Exercise in basic dataset (.csv) manipulation using the Python Pandas module.
 [Basic Data Manipulation](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Ad_Clicks/ad_clicks.ipynb)  <br/>
 <br/>
 Exercise using the glob module to combine data from different files, then clean the data.  
-[Data cleaning and glob module](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Cleaning_Data/glob_example/glob_example.ipynb)  
+[Data cleaning and glob module](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Cleaning_Data/glob_example/glob_example.ipynb)<br/><br/>
+Exercise cleaning US Census Data<br/>
+[Cleaning US Census Data](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Cleaning_Data/Cleaning_US_Census_data/Cleaning_US_Census_Data.ipynb)
