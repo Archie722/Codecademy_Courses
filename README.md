@@ -19,5 +19,7 @@ Exercise using the glob module to combine data from different files, then clean 
 [Data cleaning and glob module](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Cleaning_Data/glob_example/glob_example.ipynb)<br/><br/>
 Exercise cleaning US Census Data<br/>
 [Cleaning US Census Data](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Cleaning_Data/Cleaning_US_Census_data/Cleaning_US_Census_Data.ipynb)<br/><br/>
+Exercises in merging multiple DataFrames in different ways<br/>
 [Merging DataFrames](https://github.com/Archie722/Codecademy_Courses/blob/master/Merging_DataFrames/Working_with_multiple_DataFrames.ipynb)<br/><br/>
+Final DataFrame merging Project<br/>
 [Merging DataFrames - Final Project](https://github.com/Archie722/Codecademy_Courses/blob/master/Merging_DataFrames_Project/Page_Visits_Funnel.ipynb)<br/><br/>
