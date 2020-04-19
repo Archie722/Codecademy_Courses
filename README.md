@@ -1,5 +1,5 @@
 # Codecademy Courses
-Various exercises while completing Codecademy courses.
+Various exercises and cheet sheets while completing Codecademy courses.
 <br/> 
 ## Command Line  
 Link to Codecademy cheet sheets for Terminal commands - Mac  
