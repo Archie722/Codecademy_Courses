@@ -26,6 +26,8 @@ Exercises in merging multiple DataFrames in different ways<br/>
 Final DataFrame merging Project<br/>
 [Merging DataFrames - Final Project](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Merging_DataFrames_Project/Page_Visits_Funnel.ipynb)<br/><br/>
 ## HTML5
+HTML5 Cheet Sheets</br>
+[Cheet Sheets](https://github.com/Archie722/Codecademy_Courses/tree/master/HTML5/HTML5_Cheet_Sheets)</br></br>
 Basic HTML exercise</br>
 [Basic HTML](https://github.com/Archie722/Codecademy_Courses/tree/master/HTML5/Basics)</br></br>
 HTML Forms exercise</br>
