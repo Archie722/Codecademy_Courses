@@ -25,3 +25,35 @@ Exercises in merging multiple DataFrames in different ways<br/>
 [Merging DataFrames](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Merging_DataFrames/Working_with_multiple_DataFrames.ipynb)<br/><br/>
 Final DataFrame merging Project<br/>
 [Merging DataFrames - Final Project](https://github.com/Archie722/Codecademy_Courses/blob/master/Pandas_Course/Merging_DataFrames_Project/Page_Visits_Funnel.ipynb)<br/><br/>
+## HTML5
+Basic HTML exercise</br>
+[Basic HTML](https://github.com/Archie722/Codecademy_Courses/tree/master/HTML5/Basics)</br></br>
+HTML Forms exercise</br>
+[HTML Forms](https://github.com/Archie722/Codecademy_Courses/tree/master/HTML5/Forms)</br></br>
+Final Forms Project</br>
+[Forms Project](https://github.com/Archie722/Codecademy_Courses/tree/master/HTML5/Forms_final_project)</br></br>
+HTML Tables project</br>
+[Tables Project](https://github.com/Archie722/Codecademy_Courses/tree/master/HTML5/Table_Project)</br></br>
+Semantic HTML final Project</br>
+[Semantic HTML](https://github.com/Archie722/Codecademy_Courses/tree/master/HTML5/Semantic_HTML_Project)</br></br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
